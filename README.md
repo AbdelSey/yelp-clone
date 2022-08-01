@@ -24,7 +24,7 @@ A responsive yelp-clone created with React, Redux Toolkit, Sequelize, PostgresSQ
 ### Responsive
 ![thirdR](https://user-images.githubusercontent.com/101757205/182190579-3d4de568-e6c0-4c37-a6a8-871eacea13fd.png)
 
-## Features 
+
 
 
 
