@@ -4,25 +4,26 @@ A responsive yelp-clone created with React, Redux Toolkit, Sequelize, PostgresSQ
 
 - Link to [myfoody](https://master--ornate-medovik-4f181e.netlify.app/)
 
-## FormSection
+## Home Page
 
-![first](https://user-images.githubusercontent.com/101757205/178321150-545098f0-dbb3-4019-86c3-3f423acaf89e.png)
+![first](https://user-images.githubusercontent.com/101757205/182187892-8190c108-e168-45a1-83f2-456dbabf0149.png)
 ### Responsive
-![firstR](https://user-images.githubusercontent.com/101757205/178321925-ebfc321c-0a26-4987-9d2a-c826f7eb80e7.png)
+![firstR](https://user-images.githubusercontent.com/101757205/182188465-898d8ec3-2069-460b-9b86-248b4602919b.png)
 
-## Hosting Section
+## Add Review Page
 
-![second](https://user-images.githubusercontent.com/101757205/178322836-9c36651b-82cc-4360-8727-d4b73fb4a709.png)
+![second](https://user-images.githubusercontent.com/101757205/182189195-8e8aa1ba-0012-47a9-9c57-6013c4835c84.png)
 ### Responsive
-![secondR](https://user-images.githubusercontent.com/101757205/178322855-0197f9bd-c138-4d87-81cc-5da813dea7e5.png)
-
-## Review Section
-
-![third](https://user-images.githubusercontent.com/101757205/178323709-5f492bfb-5b70-4da4-9ea5-5e5c12c94974.png)
-### Responsive
-![thirdR1](https://user-images.githubusercontent.com/101757205/178323729-d75d07db-40fe-4b67-a007-8b4f8973ce91.png)
+![secondR](https://user-images.githubusercontent.com/101757205/182189744-12978a33-961e-4cde-a347-b565ede3f272.png)
 <br />
-![thirdR2](https://user-images.githubusercontent.com/101757205/178323735-d8e3e62f-8dd0-4f5f-9d8b-ffa2abc54700.png)
+![secondR2](https://user-images.githubusercontent.com/101757205/182189751-bc1697a9-ae02-4fdb-b76e-42c8dc1d700e.png)
+
+## Update Restaurant Page
+
+![third](https://user-images.githubusercontent.com/101757205/182190390-0232bfe8-b623-45b3-9a16-a08cbd613f20.png)
+### Responsive
+![thirdR](https://user-images.githubusercontent.com/101757205/182190579-3d4de568-e6c0-4c37-a6a8-871eacea13fd.png)
+
 
 ## Support Section
 
