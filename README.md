@@ -1,6 +1,6 @@
 # yelp clone - myfoody
 
-A responsive yelp-clone created with React, Redux Toolkit, Sequelize, PostgresSQL, Node, Express, Axios, and TailwindCSS. 
+A responsive yelp-clone created with React, Redux Toolkit, Sequelize, PostgresSQL, Node, Express, Axios, and TailwindCSS. This app was deployed using Heroku and Netlify. This app is most optimal using Google Chrome. 
 
 - Link to [myfoody](https://master--ornate-medovik-4f181e.netlify.app/)
 
@@ -23,6 +23,8 @@ A responsive yelp-clone created with React, Redux Toolkit, Sequelize, PostgresSQ
 ![third](https://user-images.githubusercontent.com/101757205/182190390-0232bfe8-b623-45b3-9a16-a08cbd613f20.png)
 ### Responsive
 ![thirdR](https://user-images.githubusercontent.com/101757205/182190579-3d4de568-e6c0-4c37-a6a8-871eacea13fd.png)
+
+## Features 
 
 
 
